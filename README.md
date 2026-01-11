@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Confirmed5412
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me - There is no way
-- 😄 Pronouns: Su-57/Su-27
+- 😄 Pronouns: none
 - ⚡ Fun fact: 
 
 <!---
